@@ -15,10 +15,6 @@ W
 -src/main/java/codility/CountNonDivisible.java,3\3\33e41d03c401bba7c19be48be3cc58c8d66e1dd7
 Y
 )src/main/java/codility/NailingPlanks.java,5\a\5a5cb9f6403ad2a83d11a91c371c1eca54cf5065
-_
-/src/main/java/codility/CountDistinctSlices.java,3\5\35d02683aaece8dce642157c4702787e6e395a18
-Z
-*src/main/java/codility/MinMaxDivision.java,c\a\ca90c488da2cec1e332df0106e26f104074ae71b
 Q
 !src/main/java/codility/Flags.java,e\c\ecc0bc4e6710217ba394c0e22a34e91ed72b611b
 X
@@ -89,3 +85,11 @@ Z
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 W
 'src/main/java/codility/AbsDistinct.java,1\b\1b64c4dc720cad2256376caa7bee542f9ca0132e
+T
+$src/main/java/codility/Brackets.java,9\e\9ec653fdb93559e385f4980a0d41fec55b5f69f7
+_
+/src/main/java/codility/ChocolatesByNumbers.java,c\a\ca8791bc620be5a838966dd1d6040c3e8d4ca973
+_
+/src/main/java/codility/CommonPrimeDivisors.java,a\7\a740e9b68d6e0fa62407ab5592402514be80085a
+_
+/src/main/java/codility/CountDistinctSlices.java,3\5\35d02683aaece8dce642157c4702787e6e395a18
